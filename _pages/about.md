@@ -49,9 +49,9 @@ Other Academic Outcomes
 
 Campus Experience
 ======
-* July 2020 - June 2023, Vice Chairman of the China Doctoral Consortium of Marketing
-* September 2017 - September 2018, Class President, Marketing Class 3
-* September 2016 - September 2017, Officer, Cadre Training Center of the Youth League Committee, Chongqing University
+* <em>July 2020 - June 2023</em>, Vice Chairman of the China Doctoral Consortium of Marketing
+* <em>September 2017 - September 2018</em>, Class President, Marketing Class 3
+* <em>September 2016 - September 2017</em>, Officer, Cadre Training Center of the Youth League Committee, Chongqing University
 
 Awards & Honors
 ======
