@@ -1,49 +1,83 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi, my name is Tengyue Xu.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the 5th year of my study at [Zhejiang University](https://www.zju.edu.cn/) and the 4th year at the [City University of Hong Kong](https://www.cityu.edu.hk/).\
+Previously, I graduated with a bachelor’s degree in 2020 from the School of Economics and Business Administration at [Chongqing University](https://www.cqu.edu.cn/).
 
-A data-driven personal website
+**Research Interests:**
+* Consumer Psychology & Behavior
+* Market Research
+* Visual Aesthetics
+* AI
+* Nostalgia
+* Gifting
+
+Working Paper
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* **TFGDA: Exploring Topology and Feature Alignment in Semi-supervised Graph Domain Adaptation through Robust Clustering**. [[PDF]](https://openreview.net/forum?id=26BdXIY3ik&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))\
+**Dan J**, Liu W, Tan Y, et al.
+<em>Accepted by NeurIPS 2024, Main Track.</em>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* **TopoFR: A Closer Look at Topology Alignment on Face Recognition**. [[PDF]](https://openreview.net/forum?id=KVAx5tys2p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [[CODE]](https://github.com/DanJun6737/TopoFR)\
+**Dan J**, Liu Y, Deng J, et al. 
+<em>Accepted by NeurIPS 2024, Main Track.</em>
 
-Getting started
+* **TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective**. [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Dan_TransFace_Calibrating_Transformer_Training_for_Face_Recognition_from_a_Data-Centric_ICCV_2023_paper.html) [[CODE]](https://github.com/DanJun6737/TransFace)\
+**Dan J**, Liu Y, Xie H, et al. 
+<em>Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023: 20642-20653.</em>
+
+* **HOGDA: Boosting Semi-supervised Graph Domain Adaptation via High-Order Structure-Guided Adaptive Feature Alignment**. [[PDF]](https://openreview.net/forum?id=2KjnPzj8gf)\
+**Dan J**, Liu W, Liu M, et al. 
+<em>Accepted by ACM Multimedia (ACM MM) 2024.</em>
+
+* **PIRN: Phase Invariant Reconstruction Network for Infrared Image Super-Resolution**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009925)\
+**Dan J**, Jin T, Chi H, et al. 
+<em>Neurocomputing, 2024, 599: 128221.</em>
+
+* **Similar Norm More Transferable: Rethinking Feature Norms Discrepancy in Adversarial Domain Adaptation**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005422)\
+**Dan J**, Liu M, Xie C, et al. 
+<em>Knowledge-Based Systems, 2024, 296: 111908.</em>
+
+* **Trust-aware Conditional Adversarial Domain Adaptation with Feature Norm Alignment**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0893608023005543)\
+**Dan J**, Jin T, Chi H, et al. 
+<em>Neural Networks, 2023, 168: 518-530.</em>
+
+* **HOMDA: High-Order Moment-Based Domain Alignment for unsupervised domain adaptation**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013016)\
+**Dan J**, Jin T, Chi H, et al. 
+<em>Knowledge-Based Systems, 2023, 261: 110205.</em>
+
+* **Uncertainty-guided Joint Unbalanced Optimal Transport for Unsupervised Domain Adaptation**. [[PDF]](https://link.springer.com/article/10.1007/s00521-022-07976-x)\
+**Dan J**, Jin T, Chi H, et al. 
+<em>Neural Computing and Applications, 2023, 35(7): 5351-5367.</em>
+
+* **CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**. [[PDF]](https://arxiv.org/abs/2405.10530) [[CODE]](https://github.com/XiaoBuL/CM-UNet)\
+Liu M, **Dan J**, Lu Z, et al. 
+<em>arXiv preprint arXiv:2405.10530, 2024.</em>
+
+
+
+Campus Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* July 2020 - June 2023, Vice Chairman of the China Doctoral Consortium of Marketing
+* September 2017 - September 2018, Class President, Marketing Class 3
+* September 2016 - September 2017, Officer, Cadre Training Center of the Youth League Committee, Chongqing University
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Awards & Honors
+======
+* National Scholarship, 2018.11
+* Outstanding Student Comprehensive Scholarship, 2019.04 & 2018.11 & 2018.05
+* Outstanding Graduate Student Leader, 2021.10 & 2022.10
+* Outstanding Graduate, 2019.10
+* Outstanding Student, 2019.01
+* Advanced Individual in Technological and Academic Innovation, 2019.01 & 2018.03
+* Outstanding Communist Youth League Leader, 2018.05 & 2017.05
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
