@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, my name is Tengyue Xu.
 
-This is the 5th year of my study at [Zhejiang University](https://www.zju.edu.cn/) and the 4th year at the [City University of Hong Kong](https://www.cityu.edu.hk/). Previously, I graduated with a bachelor’s degree in 2020 from the School of Economics and Business Administration at [Chongqing University](https://www.cqu.edu.cn/).
+I am currently in my fifth year at [Zhejiang University](https://www.zju.edu.cn/) and my fourth year at the [City University of Hong Kong](https://www.cityu.edu.hk/), pursuing a joint doctoral degree. Previously, I completed my bachelor's degree in 2020 at the School of Economics and Business Administration, [Chongqing University](https://www.cqu.edu.cn/).
 
 **Research Interests:**
 * Consumer Psychology & Behavior
