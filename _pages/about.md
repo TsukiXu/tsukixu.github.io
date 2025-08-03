@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, my name is Tengyue Xu.
 
-I am currently in my fifth year at [Zhejiang University](https://www.zju.edu.cn/) and my fourth year at the [City University of Hong Kong](https://www.cityu.edu.hk/), pursuing a joint doctoral degree. Previously, I completed my bachelor's degree in 2020 at the School of Economics and Business Administration, [Chongqing University](https://www.cqu.edu.cn/).
+I am currently in my fifth year at [Zhejiang University](https://www.zju.edu.cn/) and my fifth year at the [City University of Hong Kong](https://www.cityu.edu.hk/), pursuing a joint doctoral degree. Previously, I completed my bachelor's degree in 2020 at the School of Economics and Business Administration, [Chongqing University](https://www.cqu.edu.cn/).
 
 **Research Interests:**
 * Consumer Psychology & Behavior
@@ -20,9 +20,13 @@ I am currently in my fifth year at [Zhejiang University](https://www.zju.edu.cn/
 
 Working Paper
 ======
-* **Simplicity is my glory: The Minimalism-Masculinity Mental Association and Its Effect on Minimalist Consumption**. \
-**Tengyue (Tsuki) Xu**, Wanyue Li, Yudong Li, Xinyue Zhou*. 
-<em>Under Review at Journal of Consumer Research.</em>
+* **Surprise Discounts Promote More Effectively Than Unexpected Discounts: The Moderating Effect of Consumption Goal**. \
+**Tengyue (Tsuki) Xu**, Enzhu Wang, Zhilin Yang, Xinyue Zhou, Guomeng Zheng*. 
+<em>Journal of Retailing and Consumer Services, 2025, 87: 104408.</em>
+
+* **EHM: Exploring Dynamic Alignment and Hierarchical Clustering in Unsupervised Domain Adaptation via High-Order Moment-Guided Contrastive Learning**. \
+**Tengyue (Tsuki) Xu**, Jun Dan*. 
+<em>Neural Networks, 2025, 185: 107188.</em>
 
 * **Time of Day and Visual Complexity**. \
 **Tengyue (Tsuki) Xu**, Zhongqiang (Tak) Huang, Aojie Zhang, Xinyue Zhou*. 
@@ -32,9 +36,9 @@ Working Paper
 **Tengyue (Tsuki) Xu**, Xinyue Zhou*. 
 <em>Under Review at Journal of Consumer Psychology.</em>
 
-* **Surprise Discounts Promote More Effectively Than Regular Discounts: The Moderating Effect of Consumption Goal**. \
-**Tengyue (Tsuki) Xu**, Xinyue Zhou, Zhilin Yang*. 
-<em>Under Review at Journal of Retailing and Consumer Services.</em>
+* **Simplicity is my glory: The Minimalism-Masculinity Mental Association and Its Effect on Minimalist Consumption**. \
+**Tengyue (Tsuki) Xu**, Wanyue Li, Yudong Li, Xinyue Zhou*. 
+<em>Under Review at Journal of Consumer Research.</em>
 
 * **Aging and Helping Orientation**. \
 Yujie Zhao, **Tengyue (Tsuki) Xu**, Xinyue Zhou*. 
