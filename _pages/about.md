@@ -28,7 +28,7 @@ Working Paper
 **Tengyue (Tsuki) Xu**, Jun Dan*. 
 <em>Neural Networks, 2025, 185: 107188.</em>
 
-* **Time of Day and Visual Complexity**. \
+<!-- * **Time of Day and Visual Complexity**. \
 **Tengyue (Tsuki) Xu**, Zhongqiang (Tak) Huang, Aojie Zhang, Xinyue Zhou*. 
 <em>Under Review at Journal of Marketing Research.</em>
 
@@ -42,7 +42,7 @@ Working Paper
 
 * **Aging and Helping Orientation**. \
 Yujie Zhao, **Tengyue (Tsuki) Xu**, Xinyue Zhou*. 
-<em>Manuscript preparation for Psychology & Marketing.</em>
+<em>Manuscript preparation for Psychology & Marketing.</em> -->
 
 
 Other Academic Outcomes
