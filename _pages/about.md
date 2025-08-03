@@ -18,7 +18,7 @@ I am currently in my fifth year at [Zhejiang University](https://www.zju.edu.cn/
 * Nostalgia
 * Gifting
 
-Working Paper
+Publications
 ======
 * **Surprise Discounts Promote More Effectively Than Unexpected Discounts: The Moderating Effect of Consumption Goal**. \
 **Tengyue (Tsuki) Xu**, Enzhu Wang, Zhilin Yang, Xinyue Zhou, Guomeng Zheng*. 
